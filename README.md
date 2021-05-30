@@ -6,7 +6,7 @@ Full theme with Sass (.scss) files
 
 ## Instructions
 
-First clone this repository.
+First clone this repository
 
 ```bash
 $ git clone https://github.com/filipeqs/dev-connector-theme.git
